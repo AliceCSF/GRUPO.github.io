@@ -1,0 +1,82 @@
+/*Home*/
+body { background-color: rgb(24, 222, 215);}
+.gohan { background-color: rgb(41, 78, 188);
+color: aliceblue;}
+.gabriela { color: rgb(4, 19, 95);}
+
+/*PáginadeLogin*/
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+        
+  .Páginadelogin{
+    color: aquamarine;
+  }
+
+  .login { color: aliceblue;}
+
+/*PáginaADM*/
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    background-color: darkcyan;
+      text-align: center;
+  }
+  
+.Páginadeacesso{
+    background-color: blueviolet;
+}
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+
+
+  
+}
+
+/*PáginaInicialPaciente*/
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.SPMEDICALGROUP{
+  color: aliceblue ;
+}
+
+/*Inicial Médico*/
+body {
+    background-color: rgb(156, 225, 225);
+  }
+  .clinica {color: rgb(17, 115, 151);}
+  .teste {
+   
+    color: rgb(210, 214, 234);
+  }
+  button { background-color: rgb(26, 137, 167);
+   
+  } 
+
