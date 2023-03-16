@@ -1,0 +1,35 @@
+/*Paciente*/
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.SPMEDICALGROUP{
+  color: aliceblue ;
+  text-align: center;
+}
+footer {
+  background-color: darkcyan;
+  
+}
+footer {
+  background-color: darkcyan;
+  width:100%;
+  text-align: left;
+  
+}
+.rodape
+{ border:1px solid blue;
+  position: absolute;
+  margin-right: 80%;
+}
