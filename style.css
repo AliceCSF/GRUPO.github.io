@@ -102,35 +102,36 @@ footer {
     
   }
 /*Login*/
+
 body {
-    background-color: lightblue;
-  }
-  
-  h1 {
-    color: rgb(0, 0, 0);
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
-        
-  .Páginadelogin{
-    color: rgb(255, 255, 255);
-  }
+  background-color: lightblue;
+}
 
-  .login { color: rgb(255, 255, 255);}
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
 
-  .coverback {
-    background-image: url("image.png"); 
-    background-size: cover;
-   background-repeat: no-repeat;
-  }
-  footer { 
-    background-color: rgb(6, 121, 132);
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+      
+.Páginadelogin{
+  color: rgb(255, 255, 255);
+}
 
-  }
+.login { color: rgb(255, 255, 255);}
+
+.coverback {
+  background-image: url("https://live.staticflickr.com/65535/52751108846_90acfc6df7_m.jpg"); 
+  background-size: cover;
+ background-repeat: no-repeat;
+}
+footer { 
+  background-color: rgb(6, 121, 132);
+
+}
 /*Index*/
 .corpo{
     background-image: url("saude-digital.png");
