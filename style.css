@@ -24,6 +24,11 @@ body {
     rgb(210, 214, 234);
 
   }
+.coverback {
+  background-image: url("https://live.staticflickr.com/65535/52751844063_9153252e2a_m.jpg"); 
+  background-size: cover;
+ background-repeat: no-repeat;
+}
 
 /*PáginaADM*/
 body {
