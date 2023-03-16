@@ -103,6 +103,11 @@ footer {
     background-size: cover 
 }
 
+.coverback {
+  background-image: url("https://live.staticflickr.com/65535/52751571834_779f5ec475_m.jpg"); 
+  background-size: cover;
+ background-repeat: no-repeat;
+}
 
 button {background-color: rgb(116, 208, 234);
     font-size: xx-large;
