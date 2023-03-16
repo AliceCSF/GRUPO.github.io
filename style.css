@@ -13,11 +13,7 @@ body {
     height: 56px;
     border-radius: 10px;
   } 
-    .coverback {
-      background-image: url("https://live.staticflickr.com/65535/52751844063_9153252e2a_m.jpg"); 
-      background-repeat: no-repeat;
-      background-size: cover;
-  }
+   
   footer { 
     background-color: rgb(17, 115, 151);
   }
