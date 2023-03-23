@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <header>
+<title>Pagina do paciente</title> <nav> <h4 class="isabella">Sp Medical Group (11)998745</h4><nav>
+</header>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+   <center>
+<div class="horario">
+   <h1 class="oi">SP MEDICAL GROUP </h1> 
+</div>
+
+<div class="horario2">
+   <img src="hora.png" class="horario3">
+</div>
+
+<div class="relogio">
+   <img src="Rel.png" class="isa"> 
+</div>
+
+<p><center>
+<b><i> Clinico Geral
+<body>
+   <center>
+<img src="2.png">
+</p>
+<p align="center"><b><button>CLIQUE AQUI</button></b></p>
+</body>
+<p><center>
+<b><i> Odontologia
+<body>
+   <center>
+<img src="1.png">
+   </p>
+</p>
+<p align="center"><b><button>CLIQUE AQUI</button></b></p>
+</body>
+<b><i> Gastrentologia
+<body>
+   <center>
+<img src="3.png">
+</p>
+</p>
+<p align="center"><b><button>CLIQUE AQUI</button></b></p></center>
+</body>
+<br>
+<br>
+<head><footer class="rodape"> FALE CONOSCO: (11) 9987-4513 hospital.medicalup@gmail.com </footer>
+<html>
+<head>
