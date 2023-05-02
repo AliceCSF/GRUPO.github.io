@@ -1,0 +1,67 @@
+/*Inicial Médico*/
+body {
+    background-color: rgb(156, 225, 225);
+  }
+  .clinica {
+    color: rgb(17, 115, 151);}
+  .teste {
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+    
+  }
+  button { 
+   
+     
+    
+    height: 350px;
+    border-radius: 15px;
+    width: 290px;
+   
+  } 
+    .coverback {
+      background-image: url("tui.png"); 
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  footer { 
+    background-color: rgb(17, 115, 151);
+  }
+  nav { 
+    background-color: rgb(17, 115, 151);
+  }
+  .alice{ color: 
+    rgba(255, 255, 255, 0.664);
+
+  }
+  .teste2 {
+margin-bottom: 50px;
+margin: 2px ;
+color: #000000;
+border-bottom: 100px;
+
+  }
+  .teste3 {
+
+color: #010004;
+  }
+  
+  #img-2{
+    height: 290px;
+    width: 273px;
+    border-radius: 50px;
+ 
+  }
+
+  #img-3{
+height: 310px;
+width: 310px;
+
+ 
+
+ } 
+ #img-1{
+    height: 290px;
+    width: 273px;
+    border-radius: 50px;
+
+ }
